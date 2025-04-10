@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/emo-D/', // 필수: GitHub repo 이름
+  base: '/emotion/', // 필수: GitHub repo 이름
   build: {
     outDir: 'docs', // ← build 결과를 docs 폴더로!
   },
